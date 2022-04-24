@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "okapi",
+  "name": "pa-okapi",
   "author": "Philippe Aka",
   "description": "just a simple package for testing",
   "module": "dist/okapi.esm.js",
